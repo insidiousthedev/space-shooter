@@ -22,6 +22,8 @@ after doing everything mentioned above, just run it, it will then launch the gam
 - arrow keys - move (everybody knows that too)
 - right ctrl - shoot
 
+## note: you cannot move while shooting or shoot while moving
+
 # helping
 - star this repo
 - fork this repo
